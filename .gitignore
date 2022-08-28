@@ -1,0 +1,5 @@
+/build
+
+/external/httplib/*
+!/external/httplib/CMakeLists.txt
+!/external/httplib/Makefile
